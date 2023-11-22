@@ -1,2 +1,2 @@
 # Sistema-clone
- Sistema clone. App web e aplicatico flutter
+ Sistema clone. App web e aplicativo flutter
